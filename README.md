@@ -60,7 +60,7 @@
 
 Welcome to my GitHub profile! I’m passionate about building web applications, solving problems, and learning new technologies. I’m currently diving deep into **Full-Stack Development** and learning **Python** AND IN UPCOMING TIME WILL DO MORE.
 
-![Profile Image]([https://your-image-url.com](https://avatars.githubusercontent.com/u/156499973?v=4)) <!-- Replace with your image URL -->
+
 
 ---
 
