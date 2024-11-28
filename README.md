@@ -94,7 +94,8 @@ Welcome to my GitHub profile! I’m passionate about building web applications, 
 - Advanced **Python** (Data Structures, Algorithms, Flask)
 - **node.js** ( concepts)
 - **Machine Learning** with Python
-- **TypeScript** (Expanding frontend skills)
+- **web development** (Expanding frontend skills)
+- **blackhat work**(just keep eye's on..) 
 
 ---
 
@@ -163,7 +164,7 @@ Feel free to open an issue or send me a message if you want to collaborate or ha
 
 - 🔭 I’m currently working on **PYTHON LANGUAGE**
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT,PYHTON**
+- 🌱 I’m currently practicing **FULL STACK DEVELOPMENT,PYHTON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKHIL47MISHRA](https://github.com/AKHIL47MISHRA)
 
