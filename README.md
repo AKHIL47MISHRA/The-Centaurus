@@ -1,7 +1,7 @@
 # The-Centaurus
-this is the ging to be a README REPO for my profile
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<h2 align="left">Hi 👋! My name is AKHIL MISHRA and I'm a BEGINNER DEVELOPER, from INDIA.</h2>
 
 ###
 
@@ -51,11 +51,11 @@ this is the ging to be a README REPO for my profile
 
 ###
 
-# 👨‍💻 Hi, I'm [Your Name]! 👩‍💻
+# 👨‍💻 Hi, I'm [AKHIL MISHRA]! 👩‍💻
 
 ### Full-Stack Developer | Python Enthusiast
 
-Welcome to my GitHub profile! I’m passionate about building web applications, solving problems, and learning new technologies. I’m currently diving deep into **Full-Stack Development** and learning **Python**.
+Welcome to my GitHub profile! I’m passionate about building web applications, solving problems, and learning new technologies. I’m currently diving deep into **Full-Stack Development** and learning **Python** AND IN UPCOMING TIME WILL DO MORE.
 
 ![Profile Image](https://your-image-url.com) <!-- Replace with your image URL -->
 
@@ -64,18 +64,17 @@ Welcome to my GitHub profile! I’m passionate about building web applications, 
 ## 🔧 Technologies & Tools
 
 **Frontend:**  
-- HTML, CSS, JavaScript, React.js, Vue.js  
+- HTML, CSS, JavaScript, MONGODB, node.js  
 - Tailwind CSS, Bootstrap
 
 **Backend:**  
 - Node.js, Express.js, Django, Flask (Python)  
 - RESTful APIs, GraphQL
 
-**Databases:**  
-- MongoDB, PostgreSQL, MySQL
+
 
 **Version Control & DevOps:**  
-- Git, GitHub, Docker, CI/CD pipelines
+- Git, GitHub, Docker, 
 
 **Learning Python:**  
 - Python basics, OOP, Web scraping, Automation  
@@ -85,7 +84,7 @@ Welcome to my GitHub profile! I’m passionate about building web applications, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil47mishra&show_icons=true&hide_title=true&count_private=true&hide=prs)  
 <!-- Replace 'your-username' with your GitHub username -->
 
 ---
@@ -93,7 +92,7 @@ Welcome to my GitHub profile! I’m passionate about building web applications, 
 ## 🌱 Currently Learning
 
 - Advanced **Python** (Data Structures, Algorithms, Flask)
-- **React.js** (Advanced concepts)
+- **node.js** ( concepts)
 - **Machine Learning** with Python
 - **TypeScript** (Expanding frontend skills)
 
@@ -117,7 +116,7 @@ Here are some of the projects I’ve worked on:
 
 ## 🌟 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/akhil-kumar-11518128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-profile)
 - [Website/Portfolio](https://your-portfolio.com)
 
@@ -127,7 +126,7 @@ Here are some of the projects I’ve worked on:
 
 Feel free to open an issue or send me a message if you want to collaborate or have questions! You can also contact me via:
 
-- Email: your-email@example.com
+- Email:akhilkumar017147@gmail.com
 
 ---
 
